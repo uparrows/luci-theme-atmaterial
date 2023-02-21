@@ -746,7 +746,7 @@ table > tbody > tr > td, table > tbody > tr > th, table > tfoot > tr > td, table
 }
 
 .cbi-section-table-row {
-    text-align: center;
+    text-align: left;
 }
 
 fieldset > table > tbody > tr:nth-of-type(odd),
