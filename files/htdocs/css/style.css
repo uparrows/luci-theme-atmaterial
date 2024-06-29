@@ -524,7 +524,7 @@ color: #8965e0!important;
 color: #2dce89!important;
 }
 
-.main > .main-left > .nav > li > a[data-title="iStore"]:before {
+.main > .main-left > .nav >  .slide > a[data-title="iStore"]:before {
     content: "\e031";
 color: #e4c423!important;
 }
