@@ -751,7 +751,7 @@ table > tbody > tr > td, table > tbody > tr > th, table > tfoot > tr > td, table
 }
 
 .cbi-section-table-cell {
-    text-align: -webkit-right;
+    text-align: -webkit-center;
 }
 
 .cbi-section-table-row {
@@ -873,7 +873,7 @@ td > table > tbody > tr > td,
 .btn + .btn,
 form.inline + form.inline,
 .cbi-button + .cbi-button {
-    margin-left: 0.6rem;
+    margin-left: 0rem;
 }
 
 .cbi-button-reset,
