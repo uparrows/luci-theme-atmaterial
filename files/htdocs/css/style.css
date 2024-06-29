@@ -751,7 +751,7 @@ table > tbody > tr > td, table > tbody > tr > th, table > tfoot > tr > td, table
 }
 
 .cbi-section-table-cell {
-    text-align: center;
+    text-align: -webkit-right;
 }
 
 .cbi-section-table-row {
